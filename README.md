@@ -1,4 +1,4 @@
-<img width="2558" height="1596" alt="image" src="https://github.com/user-attachments/assets/81bcc68b-180d-4fc9-8dc3-c5d0dd8617e1" /># 🏔️ Alpine Neovim - My Personal Configuration
+# 🏔️ Alpine Neovim - My Personal Configuration
 
 This is my personal Neovim configuration, built upon the excellent [LazyVim](https://www.lazyvim.org/) distribution. The guiding philosophy behind this setup is to create an **elegant, clean, serene, and immersive** coding environment, inspired by the tranquility and beauty of the Alps.
 
@@ -74,3 +74,4 @@ This configuration is managed by [Lazy.nvim](https://github.com/folke/lazy.nvim)
 
 ---
 *Crafted with care, for a serene and productive coding journey.*
+
